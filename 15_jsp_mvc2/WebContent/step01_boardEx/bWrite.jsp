@@ -27,7 +27,7 @@
 				</tr>
 				<tr>
 					<td> 비밀번호</td>
-					<td><input type="password" name="password" size="70"/></td>
+					<td><input type="text" name="password" size="70"/></td>
 				</tr>
 				<tr>
 					<td align="center">글내용</td>
